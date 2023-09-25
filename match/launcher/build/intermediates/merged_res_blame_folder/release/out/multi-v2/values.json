@@ -1,0 +1,98 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/xiaoxin/games/TL_Video/match/launcher/build/intermediates/incremental/mergeReleaseResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/xiaoxin/games/TL_Video/match/launcher/src/main/res/values/ids.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "46",
+                        "endOffsets": "97"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "45",
+                        "endOffsets": "96"
+                    }
+                },
+                {
+                    "source": "/Users/xiaoxin/games/TL_Video/match/launcher/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "5,2,7",
+                        "startColumns": "0,0,0",
+                        "startOffsets": "190,53,288",
+                        "endLines": "6,4,10",
+                        "endColumns": "8,8,8",
+                        "endOffsets": "286,188,513"
+                    },
+                    "to": {
+                        "startLines": "10,20,23",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "473,1048,1186",
+                        "endLines": "11,22,26",
+                        "endColumns": "8,8,8",
+                        "endOffsets": "568,1181,1408"
+                    }
+                },
+                {
+                    "source": "/Users/xiaoxin/games/TL_Video/match/launcher/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "2,2",
+                        "startOffsets": "53,100",
+                        "endColumns": "46,65",
+                        "endOffsets": "97,163"
+                    },
+                    "to": {
+                        "startLines": "8,9",
+                        "startColumns": "4,4",
+                        "startOffsets": "356,405",
+                        "endColumns": "48,67",
+                        "endOffsets": "400,468"
+                    }
+                },
+                {
+                    "source": "/Users/xiaoxin/.gradle/caches/transforms-3/94f93fc7acafa519d30c95c0169a14be/transformed/jetified-NativeShare/res/values/values.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "525"
+                    },
+                    "to": {
+                        "startLines": "12",
+                        "startColumns": "4",
+                        "startOffsets": "573",
+                        "endLines": "19",
+                        "endColumns": "12",
+                        "endOffsets": "1043"
+                    }
+                },
+                {
+                    "source": "/Users/xiaoxin/games/TL_Video/match/launcher/src/main/res/values/freeformwindow.xml",
+                    "from": {
+                        "startLines": "5,6,2,4,3",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "221,286,55,167,112",
+                        "endColumns": "64,63,56,53,54",
+                        "endOffsets": "281,345,107,216,162"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "101,158,214,263,309",
+                        "endColumns": "56,55,48,45,46",
+                        "endOffsets": "153,209,258,304,351"
+                    }
+                }
+            ]
+        }
+    ]
+}

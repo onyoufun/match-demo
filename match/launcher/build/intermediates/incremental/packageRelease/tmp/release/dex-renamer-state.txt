@@ -1,0 +1,4 @@
+#Mon Sep 25 19:13:48 CST 2023
+base.0=/Users/xiaoxin/games/TL_Video/match/launcher/build/intermediates/dex/release/mergeDexRelease/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

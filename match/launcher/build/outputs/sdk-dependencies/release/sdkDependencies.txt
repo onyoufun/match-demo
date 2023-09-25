@@ -1,0 +1,47 @@
+# List of SDK dependencies of this app, this information is also included in an encrypted form in the APK.
+# For more information visit: https://d.android.com/r/tools/dependency-metadata
+
+library {
+  maven_library {
+    artifactId: "NativeShare"
+  }
+  digests {
+    sha256: "\030Z@(\337\376\375\372\331\242R)h\2708\t\204\023F\272\223\310C\263\374D\312\004\352\235\np"
+  }
+}
+library {
+  maven_library {
+    artifactId: "com.android.installreferrer.installreferrer-2.1"
+  }
+  digests {
+    sha256: "s\"\345\207\213\374\032~}8\212\224\275\255\177\270\241\363MCt\210\367\375^<\331\002?\261\r+"
+  }
+}
+library {
+  maven_library {
+    artifactId: "com.appsflyer.af-android-sdk-6.5.4"
+  }
+  digests {
+    sha256: "H\337c[\376\247\362Y\377}#`|UXDf\331S#0+\245\200\342+\004\265\227\366u\004"
+  }
+}
+library {
+  maven_library {
+    artifactId: "com.appsflyer.unity-wrapper-6.5.4"
+  }
+  digests {
+    sha256: "[\'8q\020\215\202f6L,\371\300\210_;\315\336\203\247\225\030{\360\355 a\333#9a/"
+  }
+}
+library {
+  digests {
+    sha256: "h\322w\214\025\016\2443\235\3611)]\005\354\241\r\f\356\373\260\025x\031l\246\320\207\305I1\201"
+  }
+}
+library_dependencies {
+  library_index: 4
+}
+module_dependencies {
+  module_name: "base"
+  dependency_index: 4
+}

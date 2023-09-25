@@ -1,0 +1,2 @@
+com/restar/matchrender/google/BuildConfig.java
+ com.restar.matchrender.google.BuildConfig
