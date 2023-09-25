@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{D071CD91-F493-26CE-7C7E-C664F81171E4}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/AppsFlyer/AppsFlyerObjectScript.cs">
+    <Files>
+      <File FileName="Assets/AppsFlyer/AppsFlyerObjectScript.cs" Line="90" Column="35" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TL_Video" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="AppsFlyer" expanded="True">
+                <Node name="AppsFlyerObjectScript.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.AppsFlyer PreferredExecutionTarget="48b97c37-3be8-4fa6-a081-fe9502253299" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

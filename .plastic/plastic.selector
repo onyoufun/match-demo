@@ -1,0 +1,4 @@
+repository "TL_Video@nn1l@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
